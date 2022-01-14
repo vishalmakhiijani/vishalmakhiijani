@@ -1,6 +1,6 @@
 ### Hi there, I'm [Vishal Kumar][website] 👋 
 [![Website](https://img.shields.io/website?label=MeetVishalKumar.com&style=for-the-badge&url=https%3A%2F%2Fmeetvishalkumar.com)](https://meetvishalkumar.com)
-[![Instagram Follow](https://img.shields.io/instagram/follow/vishalkumar?color=1DA1F2&logo=instagram&style=for-the-badge)](https://www.instagram.com/vishal.kumar456/)
+[![Blog](https://img.shields.io/website?label=blog.MeetVishalKumar.com&style=for-the-badge&url=https%3A%2F%2Fblog.meetvishalkumar.com)](https://blog.meetvishalkumar.com)
 
 ## I'm a Website Developer, and Cyber Security Specialist!!
 
@@ -34,8 +34,10 @@
   <br><br><br><br><br><br><br><br> 
  <summary>:zap: languages Stats</summary>
   <img align="left" alt="Vishal Kumar's lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+    <br><br><br><br><br><br><br>
+ <summary>:zap: Week Stats </summary>
+  <img align="left" alt="Vishal Kumar's lang Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=vishalkumar456" />
 
- 
 <br><br>
 
 [website]: https://meetvishalkumar.com
