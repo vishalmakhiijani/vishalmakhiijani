@@ -27,7 +27,7 @@
 
 ---
 
-### 📕  Blog Posts
+### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -49,7 +49,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Vishal Kumar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Vishal Kumar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=https://github.com/vishalkumar456&show_icons=true&hide_border=true" />
 
 </details>
 
