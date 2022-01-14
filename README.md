@@ -45,11 +45,11 @@
 </details>
   <img align="left" alt="Vishal Kumar's lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
-  <img align="left" alt="Vishal Kumar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=https://github.com/vishalkumar456&show_icons=true&hide_border=true" />
+ 
 
 
 </details>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  (https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://meetvishalkumar.com
