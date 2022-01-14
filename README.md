@@ -28,13 +28,9 @@
 ---
 
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Vishal Kumar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vishalkumar456&show_icons=true&hide_border=true" />
-
-
-</details>
 
 <br>
   <img align="left" alt="Vishal Kumar's lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
