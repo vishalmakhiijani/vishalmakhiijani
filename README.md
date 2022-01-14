@@ -1,6 +1,6 @@
 ### Hi there, I'm [Vishal Kumar][website] 👋 
 [![Website](https://img.shields.io/website?label=MeetVishalKumar.com&style=for-the-badge&url=https%3A%2F%2Fmeetvishalkumar.com)](https://meetvishalkumar.com)
-[![Instagaram Follow](https://img.shields.io/instagaram/follow/vishalkumar?color=1DA1F2&logo=instagaram&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Instagaram Follow](https://img.shields.io/instagram/follow/vishalkumar?color=1DA1F2&logo=instagram&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Website Developer, and Cyber Security Specialist!!
 
