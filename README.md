@@ -43,14 +43,12 @@
 
 
 </details>
+
+<br>
   <img align="left" alt="Vishal Kumar's lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
  
-
-
-</details>
-
-
+<br><br>
 
 [website]: https://meetvishalkumar.com
 [twitter]: https://twitter.com/VishaIKumar456
