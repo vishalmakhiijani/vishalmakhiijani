@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m open to Hire
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I know it's crazy, but I love to eat indian Food
+- ⚡ Fun fact: I know it's crazy, but I love to eat Indian Food
 
 ### Connect with me:
 
