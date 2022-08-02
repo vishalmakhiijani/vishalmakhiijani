@@ -41,8 +41,8 @@
 <br><br>
 
 [website]: https://meetvishalkumar.com
-[twitter]: https://twitter.com/VishaIKumar456
-[instagram]: https://www.instagram.com/vishal.kumar456/
-[linkedin]: https://www.linkedin.com/in/vishal-kumar-a59b80197/
+[twitter]: https://twitter.com/VshalxMakhijani
+[instagram]: https://www.instagram.com/vishal_makhijani/
+[linkedin]: https://www.linkedin.com/in/vishalxkumar/
 
 
