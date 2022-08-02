@@ -1,4 +1,4 @@
-### Hi there, I'm [Vishal Kumar][website] 👋 
+### Hi there, I'm [Vishal Makhijani][website] 👋 
 [![Website](https://img.shields.io/website?label=My+Portfolio&style=for-the-badge&url=https%3A%2F%2Fmeetvishalkumar.com)](https://meetvishalkumar.com)
 [![Blog](https://img.shields.io/website?label=My%20Personal+Blog&style=for-the-badge&url=https%3A%2F%2Fblog.meetvishalkumar.com)](https://blog.meetvishalkumar.com)
 
