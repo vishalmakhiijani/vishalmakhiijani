@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vshalxmakhijani" target="blank"><img src="https://img.shields.io/twitter/follow/vshalxmakhijani?logo=twitter&style=for-the-badge" alt="vshalxmakhijani" /></a> </p>
 
-- 🔭 I’m currently working on [Tasty Tips(Android)](https://github.com/vishalkumar456/food-recipe-android-app)
+- 🔭 I’m currently working on [Tasty Tips(Android Application)](https://github.com/vishalkumar456/food-recipe-android-app)
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
