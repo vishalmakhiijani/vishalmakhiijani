@@ -33,11 +33,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalkumar456&show_icons=true&locale=en&layout=compact" alt="vishalkumar456" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalkumar456&show_icons=true&locale=en" alt="vishalkumar456" /></p>
-
+</br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkumar456&" alt="vishalkumar456" /></p>
-<summary>:zap: Week Stats </summary>
-  <img align="left" alt="Vishal Kumar's lang Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=vishalkumar456" />
-
+<summary>:zap: Overall Stats </summary></br>
+  <img align="left" alt="Vishal Makhijani's lang Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=vishalkumar456" /></br>
+<summary>:zap: Top Languages</summary></br>
+<img align="left" alt="Vishal Makhijani's lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumar456&layout=compact" /></br>
 
 <!-- OLD README -->
 <!--### Hi there, I'm [Vishal Makhijani][website] 👋 
