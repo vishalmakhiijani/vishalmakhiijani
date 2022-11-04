@@ -35,6 +35,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalkumar456&show_icons=true&locale=en" alt="vishalkumar456" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkumar456&" alt="vishalkumar456" /></p>
+<summary>:zap: Week Stats </summary>
+  <img align="left" alt="Vishal Kumar's lang Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=vishalkumar456" />
 
 
 <!-- OLD README -->
