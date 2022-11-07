@@ -11,13 +11,10 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://meetvishalkumar.com)
 
-- 📝 I regularly write articles on [blog.meetvishalkumar.com](blog.meetvishalkumar.com)
-
 - 💬 Ask me about **PHP**
 
 - 📫 How to reach me **contact@meetvishalkumar.com**
-
-- 📄 Know about my experiences [Click Here to get CV](https://portfolio.meetvishalkumar.com/meetvishalkumar.com--CV.docx)
+- 📄 Know about my experiences [Click Here to get CV](https://github.com/vishalkumar456/vishalkumar456/files/9952795/meetvishalkumar.com--CV.docx)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
