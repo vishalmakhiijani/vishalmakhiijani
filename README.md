@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/vshalxmakhijani" target="blank"><img src="https://img.shields.io/twitter/follow/vshalxmakhijani?logo=twitter&style=for-the-badge" alt="vshalxmakhijani" /></a> </p>
 
-- 🔭 I’m currently working on [Tasty Tips(Android Application)](https://github.com/vishalkumar456/food-recipe-android-app)
+- 🔭 I’m currently working on Car Rental Django
+<!-- 🔭 I’m currently working on [Tasty Tips(Android Application)](https://github.com/vishalkumar456/food-recipe-android-app)-->
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
@@ -32,7 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalkumar456&show_icons=true&locale=en" alt="vishalkumar456" /></p>
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkumar456&" alt="vishalkumar456" /></p>
-<summary>:zap: Overall Stats </summary></br>
+<summary>:zap: Weekly Stats </summary></br>
   <img align="left" alt="Vishal Makhijani's lang Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=vishalkumar456" /></br>
 <summary>:zap: Top Languages</summary></br>
 <img align="left" alt="Vishal Makhijani's lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumar456&layout=compact" /></br>
