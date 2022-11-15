@@ -34,9 +34,9 @@
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkumar456&" alt="vishalkumar456" /></p>
 <summary>:zap: Weekly Stats </summary></br>
-  <img align="left" alt="Vishal Makhijani's lang Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=vishalkumar456" /></br>
+  <img align="left" alt="Vishal Makhijani's weekly lang Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=vishalkumar456" /></br>
 <summary>:zap: Top Languages</summary></br>
-<img align="left" alt="Vishal Makhijani's lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumar456&layout=compact" /></br>
+<img align="left" alt="Vishal Makhijani's top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumar456&layout=compact" /></br>
 
 <!-- OLD README -->
 <!--### Hi there, I'm [Vishal Makhijani][website] 👋 
