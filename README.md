@@ -9,12 +9,12 @@
 <!-- 🔭 I’m currently working on [Tasty Tips(Android Application)](https://github.com/vishalkumar456/food-recipe-android-app)-->
 
 - 🌱 I’m currently learning **Ethical Hacking**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://meetvishalkumar.com)
+<!-- 
+- 👨‍💻 All of my projects are available at [Portfolio](https://meetvishalkumar.com) -->
 
 - 💬 Ask me about **PHP**
 
-- 📫 How to reach me **contact@meetvishalkumar.com**
+- 📫 How to reach me **vk4562000@gmail.com**
 - 📄 Know about my experiences [Click Here to get CV](https://github.com/vishalkumar456/vishalkumar456/files/9952795/meetvishalkumar.com--CV.docx)
 
 <h3 align="left">Connect with me:</h3>
