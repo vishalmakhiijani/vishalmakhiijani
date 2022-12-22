@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Makhijani</h1>
-<h3 align="center">A passionate backend web developer</h3>
+<h3 align="center">A passionate web developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalkumar456" alt="vishalkumar456" /></a> </p>
 
