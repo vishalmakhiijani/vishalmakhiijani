@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **PHP**
 
-- 📫 How to reach me **[E-Mail](mailto:vishalkumar4566@protonmail.com)**
+- 📫 How to reach me **[E-Mail](mailto:vishalmakhijani@proton.me)**
 - 📄 Know about my experiences [Resume](https://github.com/vishalkumar456/vishalkumar456/files/9952795/meetvishalkumar.com--CV.docx)
 
 <h3 align="left">Connect with me:</h3>
