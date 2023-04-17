@@ -3,23 +3,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalkumar456" alt="vishalkumar456" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Vishal_Makhijan" target="blank"><img src="https://img.shields.io/twitter/follow/vshalxmakhijani?logo=twitter&style=for-the-badge" alt="vshalxmakhijani" /></a> </p>
+<p align="left"> <a href="https://twitter.com/VishaIMakhijani" target="blank"><img src="https://img.shields.io/twitter/follow/VishalMakhijani?logo=twitter&style=for-the-badge" alt="VishalMakhijani" /></a> </p>
 
-- 🔭 I’m currently working on Nothing(Vaction till 2024 + Some personal reasons)
+- 🔭 I’m currently working on Nothing(Vaction till 2024 For Some personal reasons)
 <!-- 🔭 I’m currently working on [Tasty Tips(Android Application)](https://github.com/vishalkumar456/food-recipe-android-app)-->
 
 - 🌱 I’m currently learning **NIL**
-<!-- 
-- 👨‍💻 All of my projects are available at [Portfolio](https://meetvishalkumar.com) -->
-
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/vishalmakhiijani?tab=repositories) 
 - 💬 Ask me about **PHP**
-
 - 📫 How to reach me **[E-Mail](mailto:vishalmakhijani@proton.me)**
-- 📄 Know about my experiences [Resume](https://github.com/vishalkumar456/vishalkumar456/files/9952795/meetvishalkumar.com--CV.docx)
+- 📄 Know about my experiences [Resume](https://github.com/vishalmakhiijani/vishalmakhiijani/files/11255445/VishalMakhijani--CV.docx)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vshalxmakhijani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vshalxmakhijani" height="30" width="40" /></a>
+<a href="https://twitter.com/VishaIMakhijani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VishalMakhijani" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12626929" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12626929" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishalkumarrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishalkumarrr" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@vishal5379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vishal5379" height="30" width="40" /></a>
