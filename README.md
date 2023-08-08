@@ -36,7 +36,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmakhiijani&" alt="vishalmakhiijani" /></p>-->
 <br>
 <summary>:zap: All Time Stats </summary></br>
-  <img align="left" alt="Vishal Makhijani's weekly lang Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=vishalmakhiijani" /></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+  <img align="left" alt="Vishal Makhijani's weekly lang Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=vishalmakhiijani" /></br>
 <summary>:zap: Top Languages</summary></br>
 <img align="left" alt="Vishal Makhijani's top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmakhiijani&layout=compact" /></br>
 
