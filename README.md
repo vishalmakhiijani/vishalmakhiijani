@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vishal Makhijani</h1>
-<h3 align="center">A passionate web developer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalmakhiijani" alt="vishalmakhiijani" /></a></p>
+<h3 align="center">A Passionate Web Developer</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/vishalmakhiijani/vishalmakhiijani/assets/59371369/070ab99d-cc15-4346-8431-2ef0bb41591b">
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalmakhiijani" alt="vishalmakhiijani" /></a></p>-->
 
 <p align="left"> <a href="https://twitter.com/VishaIMakhijani" target="blank"><img src="https://img.shields.io/twitter/follow/VishalMakhijani?logo=twitter&style=for-the-badge" alt="VishalMakhijani" /></a> </p>
+
+
+
 
 - 🔭 I’m currently working on Nothing(Vaction till 2024 For Some personal reasons)
 <!-- 🔭 I’m currently working on [Tasty Tips(Android Application)](https://github.com/vishalkumar456/food-recipe-android-app)-->
@@ -31,7 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalmakhiijani&show_icons=true&locale=en" alt="vishalmakhiijani" /></p>
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmakhiijani&" alt="vishalmakhiijani" /></p>
-<summary>:zap: Weekly Stats </summary></br>
+<summary>:zap: All Time Stats </summary></br>
   <img align="left" alt="Vishal Makhijani's weekly lang Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=vishalmakhiijani" /></br>
 <summary>:zap: Top Languages</summary></br>
 <img align="left" alt="Vishal Makhijani's top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmakhiijani&layout=compact" /></br>
