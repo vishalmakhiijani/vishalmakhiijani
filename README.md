@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on Nothing(Vaction till 2024 For Some personal reasons)
+- 🔭 I’m currently working on updating old projects
 <!-- 🔭 I’m currently working on [Tasty Tips(Android Application)](https://github.com/vishalkumar456/food-recipe-android-app)-->
 
 - 🌱 I’m currently learning **NIL**
