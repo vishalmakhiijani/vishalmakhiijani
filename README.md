@@ -8,10 +8,9 @@
 
 
 
-- 🔭 I’m currently working on updating old projects
 <!-- 🔭 I’m currently working on [Tasty Tips(Android Application)](https://github.com/vishalkumar456/food-recipe-android-app)-->
 
-- 🌱 I’m currently learning **NIL**
+- 🌱 I’m currently learning **updating old projects**
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/vishalmakhiijani?tab=repositories) 
 - 💬 Ask me about **PHP**
 - 📫 How to reach me **[E-Mail](mailto:vishalmakhijani@proton.me)**
