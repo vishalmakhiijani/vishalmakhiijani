@@ -35,12 +35,10 @@
 
 <p>Code Time:</p>
 <a href="https://wakatime.com/@3ca47b62-657a-46e7-942b-50ea09e46467"><img src="https://wakatime.com/badge/user/3ca47b62-657a-46e7-942b-50ea09e46467.svg" alt="Total time coded since Jan 15 2022" /></a> <br/>
-<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalmakhiijani&show_icons=true&locale=en&layout=compact" alt="vishalmakhiijani" /></p>
--->
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalmakhiijani&show_icons=true&locale=en" alt="vishalmakhiijani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalmakhiijani&show_icons=true&locale=en" alt="vishalmakhiijani" /></p>
 </br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmakhiijani&" alt="vishalmakhiijani" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmakhiijani&" alt="vishalmakhiijani" /></p>
 <br>
 <summary>:zap: All Time Stats </summary></br>
   <img align="left" alt="Vishal Makhijani's weekly lang Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=vishalmakhiijani" /></br>
