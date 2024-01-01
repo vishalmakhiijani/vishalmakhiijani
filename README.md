@@ -1,96 +1,78 @@
-<h1 align="center">Hi 👋, I'm Vishal Makhijani</h1>
-<h3 align="center">A Passionate Web Developer</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/vishalmakhiijani/vishalmakhiijani/assets/59371369/070ab99d-cc15-4346-8431-2ef0bb41591b">
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalmakhiijani" alt="vishalmakhiijani" /></a></p>-->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vishalmakhiijani" />
 
-<!--<p align="left"> <a href="[https://twitter.com/VishaIMakhijani](https://www.linkedin.com/in/vishalmakhijani/)" target="blank"><img src="https://img.shields.io/twitter/follow/VishalMakhijani?logo=twitter&style=for-the-badge" alt="VishalMakhijani" /></a> </p>-->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vishal+Makhijani!;" />
+</h1>
 
+<h3 align="center">A Software Developer With Passion</h3>
 
+<br/>
 
+<div align="center">
+ 
+ 🔭 I’m currently working on **Fixing Old Projects**
+ 
+ <!--🌱 I’m currently learning **Java** -->
 
+💬 Ask me about **PHP [Here](https://github.com/vishalmakhiijani/vishalmakhiijani/issues)**
 
-<!-- 🔭 I’m currently working on [Tasty Tips(Android Application)](https://github.com/vishalkumar456/food-recipe-android-app)-->
+ 📄 Know about my experiences [Resume](https://github.com/vishalmakhiijani/vishalmakhiijani/files/11255445/VishalMakhijani--CV.docx)
 
-- 🌱 I’m currently learning **updating old projects**
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/vishalmakhiijani?tab=repositories) 
-- 💬 Ask me about **PHP**
-- 📫 How to reach me **[E-Mail](mailto:vishalmakhijani@proton.me)**
-- 📄 Know about my experiences [Resume](https://github.com/vishalmakhiijani/vishalmakhiijani/files/11255445/VishalMakhijani--CV.docx)
+⚡ Fun fact **PHP developers have their own official theme song!**
 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:vk4562000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/vishalmakhijani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+<!--   <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  sqlite, safari, google-chrome are other good icon options
+  </a> -->
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/VishaIMakhijani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VishalMakhijani" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12626929" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12626929" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vishalkumarrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishalkumarrr" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vishal5379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vishal5379" height="30" width="40" /></a>
-</p> -->
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=PHP,bootstrap,html,css,vscode,github,git,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,java,mysql" /><br>
+</div>
 
-<p align="left"> <a href="https://www.linkedin.com/in/vishalmakhijani/" target="blank"><img src="https://img.shields.io/badge/VishalMakhijani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="VishalMakhijani" /></a> </p>
-<p align="left"> <a href="mailto:vishalmakhijani@pm.me" target="blank"><img src="https://img.shields.io/badge/vishalmakhijani@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="VishalMakhijani" /></a> </p>
-<p align="left"> <a href="mailto:vk562000@gmail.com" target="blank"><img src="https://img.shields.io/badge/vk4562000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="VishalMakhijani" /></a> </p>
+<br/>
+<hr/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-<p>Code Time:</p>
-<a href="https://wakatime.com/@3ca47b62-657a-46e7-942b-50ea09e46467"><img src="https://wakatime.com/badge/user/3ca47b62-657a-46e7-942b-50ea09e46467.svg" alt="Total time coded since Jan 15 2022" /></a> <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalmakhiijani&show_icons=true&locale=en&layout=compact" alt="vishalmakhiijani" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalmakhiijani&show_icons=true&locale=en" alt="vishalmakhiijani" /></p>
-</br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmakhiijani&" alt="vishalmakhiijani" /></p>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<summary>:zap: All Time Stats </summary></br>
-  <img align="left" alt="Vishal Makhijani's weekly lang Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=vishalmakhiijani" /></br>
-<summary>:zap: Top Languages</summary></br>
-<img align="left" alt="Vishal Makhijani's top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmakhiijani&layout=compact" /></br>
+<div align=center>
+<!--   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<!-- OLD README -->
-<!--### Hi there, I'm [Vishal Makhijani][website] 👋 
-[![Website](https://img.shields.io/website?label=My+Portfolio&style=for-the-badge&url=https%3A%2F%2Fmeetvishalkumar.com)](https://meetvishalkumar.com)
-[![Blog](https://img.shields.io/website?label=My%20Personal+Blog&style=for-the-badge&url=https%3A%2F%2Fblog.meetvishalkumar.com)](https://blog.meetvishalkumar.com)
+<br/><br/>
 
-## I'm a Website Developer, and Future Cyber Security Specialist!!
+<hr/>
 
+<br/>
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m open to Hire
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I know it's crazy, but I love to eat Indian Food
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
-### Connect with me:
-
-[<img align="left" alt="meetvishalkumar.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="meetvishalkumar.com | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="meetvishalkumar.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="meetvishalkumar.com | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-
-
-<br />
-<br />
-
----
-
-
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Vishal Kumar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vishalkumar456&show_icons=true&hide_border=true" />
-  <br><br><br><br><br><br><br><br> <br><br>
- <summary>:zap: languages Stats</summary>
-  <img align="left" alt="Vishal Kumar's lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumar456&layout=compact" />
-    <br><br><br><br><br><br><br><br><br>
- <summary>:zap: Week Stats </summary>
-  <img align="left" alt="Vishal Kumar's lang Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=vishalkumar456" />
-
-<br><br>
-
-[website]: https://meetvishalkumar.com
-[twitter]: https://twitter.com/VshalxMakhijani
-[instagram]: https://www.instagram.com/vishal_makhijani/
-[linkedin]: https://www.linkedin.com/in/vishalxkumar/ -->
-
-
+<br/>
