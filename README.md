@@ -20,7 +20,8 @@
 
 💬 Ask me about **PHP [Here](https://github.com/vishalmakhiijani/vishalmakhiijani/issues)**
 
- 📄 Know about my experiences [Resume](https://github.com/vishalmakhiijani/vishalmakhiijani/files/11255445/VishalMakhijani--CV.docx)
+ 📄 Know about my experiences [Resume](https://github.com/vishalmakhiijani/vishalmakhiijani/files/14014219/VishalMakhijani--CV.docx)
+
 
 ⚡ Fun fact **PHP developers have their official theme song!**
 
