@@ -4,13 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vishal+Makhijani!;" />
 </h1>
 <!-- <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<h3 align="center">A Software Developer With Passion</h3>
 
 <br/>
+<h2 align="center">A Software Developer With Passion</h2>
 
-<div align="center">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<br/>
+
+<div align="left">
  
  🔭 I’m currently working on **Fixing Old Projects**
  
@@ -18,9 +20,9 @@
 
 💬 Ask me about **PHP [Here](https://github.com/vishalmakhiijani/vishalmakhiijani/issues)**
 
- <!--📄 Know about my experiences [Resume](https://github.com/vishalmakhiijani/vishalmakhiijani/files/11255445/VishalMakhijani--CV.docx)-->
+ 📄 Know about my experiences [Resume](https://github.com/vishalmakhiijani/vishalmakhiijani/files/11255445/VishalMakhijani--CV.docx)
 
-⚡ Fun fact **PHP developers have their own official theme song!**
+⚡ Fun fact **PHP developers have their official theme song!**
 
  </div>
  
