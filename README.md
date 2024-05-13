@@ -14,11 +14,11 @@
  
  🔭 I’m currently working on **Fixing Old Projects**
  
- 🌱 I’m currently learning **ReactJs**
+ 🌱 I’m currently learning **Python**
 
 💬 Ask me about **PHP [Here](https://github.com/vishalmakhiijani/vishalmakhiijani/issues)**
 
- 📄 Know about my experiences [Resume](https://github.com/vishalmakhiijani/vishalmakhiijani/files/14014219/VishalMakhijani--CV.docx)
+ 📄 Know about my experiences [Resume](https://github.com/vishalmakhiijani/vishalmakhiijani/files/15294087/vishal-makhijani-CV.pdf)
 
 
 ⚡ Fun fact **PHP developers have their official theme song!**
