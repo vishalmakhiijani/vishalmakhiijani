@@ -26,7 +26,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:vk4562000@gmail.com">
+  <a href="mailto:vk4562000@gmail.com" target="_blank">
     <img height='36' style='border:0px;height:36px;' src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/vishalmakhijani/" target="_blank">
@@ -35,7 +35,7 @@
   <a href="https://vishalmakhiijani.github.io/" target="_blank">
      <img height='36' style='border:0px;height:36px;' src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
-    <a href='https://ko-fi.com/F1F6STWW3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    <a href='https://ko-fi.com/F1F6STWW3' target="_blank"><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
  <hr/>
