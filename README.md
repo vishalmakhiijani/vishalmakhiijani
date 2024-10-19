@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **Java**
 
-💬 Ask me about **PHP [Here](https://github.com/vishalmakhiijani/vishalmakhiijani/issues)**
+<!--💬 Ask me about **PHP [Here](https://github.com/vishalmakhiijani/vishalmakhiijani/issues)**-->
 
  📄 Know about my experiences [Resume](https://github.com/user-attachments/files/17445943/vishal.CV.1.pdf)
 
