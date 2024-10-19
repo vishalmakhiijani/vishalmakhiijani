@@ -14,14 +14,14 @@
  
  🔭 I’m currently working on **Fixing Old Projects**
  
- 🌱 I’m currently learning **Python**
+ 🌱 I’m currently learning **Java**
 
 💬 Ask me about **PHP [Here](https://github.com/vishalmakhiijani/vishalmakhiijani/issues)**
 
- 📄 Know about my experiences [Resume](https://github.com/vishalmakhiijani/vishalmakhiijani/files/15294087/vishal-makhijani-CV.pdf)
+ 📄 Know about my experiences [Resume](https://github.com/user-attachments/files/17445943/vishal.CV.1.pdf)
 
 
-⚡ Fun fact **PHP developers have their official theme song!**
+⚡ Fun fact **Facebook started with PHP and MySQL, while Java powers many backend systems worldwide!**
 
  </div>
  
